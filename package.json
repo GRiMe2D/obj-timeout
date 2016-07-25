@@ -1,0 +1,15 @@
+{
+  "name": "obj-timeout",
+  "version": "1.0.0",
+  "license": "Apache-2",
+  "repository": {
+    "url": "https://github.com/GRIM2D/obj-timeout"
+  },
+  "keywords": [
+    "timeout",
+    "object",
+    "react"
+  ],
+  "description": "Object wrapper for setTimout",
+  "main": "src/main/index"
+}
