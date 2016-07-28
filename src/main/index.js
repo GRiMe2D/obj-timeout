@@ -20,3 +20,5 @@ function ObjTimeout (func, delay) {
 ObjTimeout.prototype.destroy = function () {
 	clearTimeout(this.timeoutID);
 };
+
+module.exports = ObjTimeout;
